@@ -1,6 +1,6 @@
 # Describing UDP with Augmented Packet Header Diagrams
 
-This is the working area for the individual Internet-Draft, "Describing Protocol Data Units with Augmented Packet Header Diagrams".
+This is the working area for the individual Internet-Draft, "Describing UDP with Augmented Packet Header Diagrams".
 
 * [Individual Draft](https://tools.ietf.org/html/draft-mcquistin-augmented-udp-example)
 
